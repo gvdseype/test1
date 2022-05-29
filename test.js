@@ -1,9 +1,5 @@
 /*
 
-Problem: find the shortest path between target and startIndex
-Rules: the array is circular, when at the end of array, next element will be found at index 0
-                       when at the start of array, next element will be found at array.length -1
-
 */
 
 let target = 'ballendmill' // 0
